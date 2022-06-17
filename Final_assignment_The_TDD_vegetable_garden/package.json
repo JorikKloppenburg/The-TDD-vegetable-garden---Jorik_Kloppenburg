@@ -1,0 +1,18 @@
+{
+  "name": "final_assignment_the_tdd_vegetable_garden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "@hubspot/api-client": "^7.0.1"
+  }
+}
